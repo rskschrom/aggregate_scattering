@@ -1,5 +1,5 @@
 # aggregate_scattering
-Scattering calculations and geometry information for various aggregation experiments.
+Scattering calculations and geometry information for the various aggregation experiments in [Schrom et al. (2022)](https://doi.org/10.1175/JAS-D-22-0149.1).
 
 ## Structure
 Files containing the forward and backward scattering data for the aggregation sets have 'radar' at the end of their names. Likewise, the corresponding geometry files have 'geom' at the end of their names.
